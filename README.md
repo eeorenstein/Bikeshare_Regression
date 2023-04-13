@@ -1,6 +1,6 @@
 # Predicting Bikeshare Rentals with Linear Regression
 
-##Background
+## Background
 Bikeshare programs have emerged as a vital solution for local travel, helping to alleviate traffic congestion and air pollution with the added benefit of promoting active lifestyles. Like any other shared service, finding the optimal balance of supply and demand is a major challenge for operators. Accurate forecasting of usage patterns, as well as understanding the features that impact ridership, could help operators make data-informed decisions to manage these services efficiently. 
 
 ## Methodology
