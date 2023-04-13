@@ -12,10 +12,9 @@ Next, I tested the generalizability of the remaining models using k-fold cross-v
 
 Examples of visualizations from the analysis are shown below:
 
-### Pairwise Scatterplots
+#### Pairwise Scatterplots
 ![picture alt](https://github.com/eeorenstein/Bikeshare_Regression/blob/main/pairwise_scatterplots.png)
-
-### Diagnostic Plots
+#### Diagnostic Plots
 ![picture alt](https://github.com/eeorenstein/Bikeshare_Regression/blob/main/diagnostic_plots.png)
 
 ## Data
